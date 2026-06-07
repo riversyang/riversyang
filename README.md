@@ -16,7 +16,7 @@ Specialties:
 Recent Projects
 
 - REE (Runes Exchange Environment)
-- Bitcoin PSBT validation
+- Bitcoin PSBT validation (In REE Orchestrator)
 - IBC protocol implementation
 - NEAR Appchain infrastructure
 
@@ -24,5 +24,8 @@ Available for:
 
 - Remote contract work
 - Technical consulting
+  - Architecture/protocol review
+  - Smart contract design/review
+  - Rust code review
 - Rust backend development
 - Bitcoin infrastructure projects
