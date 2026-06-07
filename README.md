@@ -1,16 +1,28 @@
-## Hi there 👋
+# Rivers Yang
 
-<!--
-**riversyang/riversyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer
 
-Here are some ideas to get you started:
+25+ years software development experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Specialties:
+
+- Rust
+- Bitcoin
+- Blockchain Infrastructure
+- Internet Computer (ICP)
+- Distributed Systems
+- Smart Contract Architecture
+
+Recent Projects
+
+- REE (Runes Exchange Environment)
+- Bitcoin PSBT validation
+- IBC protocol implementation
+- NEAR Appchain infrastructure
+
+Available for:
+
+- Remote contract work
+- Technical consulting
+- Rust backend development
+- Bitcoin infrastructure projects
