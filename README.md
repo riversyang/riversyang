@@ -15,10 +15,10 @@ Specialties:
 
 Recent Projects
 
-- REE (Runes Exchange Environment)
-- Bitcoin PSBT validation (In REE Orchestrator)
-- IBC protocol implementation
-- NEAR Appchain infrastructure
+- REE (See [Runes Exchange Environment](https://www.omnity.network/ree))
+- Bitcoin PSBT validation (In REE Orchestrator, closed-source repo for now)
+- IBC protocol implementation (See [near-ibc](https://github.com/octopus-network/near-ibc))
+- NEAR Appchain infrastructure (See [octopus-appchain-anchor](https://github.com/octopus-network/octopus-appchain-anchor))
 
 Available for:
 
