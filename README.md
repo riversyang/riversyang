@@ -16,9 +16,9 @@ Specialties:
 Recent Projects
 
 - REE (See [Runes Exchange Environment](https://www.omnity.network/ree))
-- Bitcoin PSBT validation (In REE Orchestrator, closed-source repo for now)
+- Bitcoin PSBT validation (In REE Orchestrator, closed-source repo for now.)
 - IBC protocol implementation (See [near-ibc](https://github.com/octopus-network/near-ibc))
-- NEAR Appchain infrastructure (See [octopus-appchain-anchor](https://github.com/octopus-network/octopus-appchain-anchor), one of the most complicated smart contracts on NEAR protocl.)
+- NEAR Appchain infrastructure (See [octopus-appchain-anchor](https://github.com/octopus-network/octopus-appchain-anchor), one of the most complicated smart contracts on NEAR protocol.)
 
 Available for:
 
